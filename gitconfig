@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = ➜  dotfiles git:(master) gh api user/emails | jq -r '.[].email'
-	name = Hugo French hugojfrench@icloud.com
+	email = hugojfrench@icloud.com
+	name = Hugo French
